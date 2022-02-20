@@ -31,17 +31,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Redesign Architecture
-subtitle: Quality Redesign
+subtitle: Making your dreams come true
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+  This is the homepage for Redesign Architecture - One stop solution to all your design needs.
 author: Redah Riman
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+email: rimanredah@gmail.com
+avatar: assets/images/redah_riman.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "redesignarch.github.io" # the base hostname & protocol for your site
+url: "https://redesignarch.github.io" # the base hostname & protocol for your site
+
+assetdir: /assets
+
+# Blog posts
+words_per_minute : 120
+future : true
+read_more : "disabled"
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
